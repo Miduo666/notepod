@@ -14,6 +14,13 @@ Binaries to download latest version:
 
 Run in a browser: [**Web**](https://podnotes.solidcommunity.au).
 
+## 0.2 Stable release
+
++ Use `solidpod` package
++ Use new markdown render widget
++ Use markdown toolbar
++ rename package to `notepod`
+
 ## 0.1 Migrate to latest solidpod package
 
 + Lint updates [0.1.3 gjw 20250506]
