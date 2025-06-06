@@ -16,6 +16,7 @@ Run in a browser: [**Web**](https://podnotes.solidcommunity.au).
 
 ## 0.3
 
++ Recover iss windows installer builder [0.2.2 20250606 gjw]
 + Updated deb installer build [0.2.1 20250606 gjw]
 
 ## 0.2 Stable release
