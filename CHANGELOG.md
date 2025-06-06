@@ -14,6 +14,10 @@ Binaries to download latest version:
 
 Run in a browser: [**Web**](https://podnotes.solidcommunity.au).
 
+## 0.3
+
++ Updated deb installer build [0.2.1 20250606 gjw]
+
 ## 0.2 Stable release
 
 + Use `solidpod` package
