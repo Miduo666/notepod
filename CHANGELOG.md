@@ -7,12 +7,14 @@ description of the update. Updates in the 0.1.n series are heading
 toward a 0.2 release and listed under the 0.1 series.
 
 Binaries to download latest version:
-[**GNU/Linux**](https://solidcommunity.au/installers/podnotes-dev-linux.zip) -
-[**Debian/Ubuntu**](https://solidcommunity.au/installers/podnotes_amd64.deb) -
-[**MacOS**](https://solidcommunity.au/installers/podnotes-dev-macos.zip) -
-[**Windows**](https://solidcommunity.au/installers/podnotes-dev-windows-inno.exe).
+[**GNU/Linux**](https://solidcommunity.au/installers/notepod-linux.zip) -
+[**Debian/Ubuntu**](https://solidcommunity.au/installers/notepod_amd64.deb) -
+[**MacOS**](https://solidcommunity.au/installers/notepod-dev-macos.zip) -
+[**Windows
+inno**](https://solidcommunity.au/installers/notepod-dev-windows-inno.exe) -
+[**Windows zip**](https://solidcommunity.au/installers/notepod-dev-windows.zip).
 
-Run in a browser: [**Web**](https://podnotes.solidcommunity.au).
+Run in a browser: [**Web**](https://notepod.solidcommunity.au).
 
 ## 0.3
 
