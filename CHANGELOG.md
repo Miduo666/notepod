@@ -16,6 +16,7 @@ Run in a browser: [**Web**](https://podnotes.solidcommunity.au).
 
 ## 0.3
 
++ Debug failure to list notes - WIP [0.2.3 20250608 gjw]
 + Recover iss windows installer builder [0.2.2 20250606 gjw]
 + Updated deb installer build [0.2.1 20250606 gjw]
 
