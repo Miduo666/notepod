@@ -19,6 +19,7 @@ Run in a browser: [**Web**](https://notepod.solidcommunity.au).
 
 ## 0.3
 
++ Installer script updates [0.2.5 20250611 gjw]
 + Cleanup, Android permissions, rename [0.2.4 20250611 gjw]
 + Debug failure to list notes - WIP [0.2.3 20250608 gjw]
 + Recover iss windows installer builder [0.2.2 20250606 gjw]
