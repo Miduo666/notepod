@@ -3,8 +3,8 @@
 Recorded here are the high level changes for the NotePod app.
 
 Guide: Each version update is recorded here with a short user-oriented
-description of the update. Updates in the 0.1.n series are heading
-toward a 0.2 release and listed under the 0.1 series.
+description of the update. Updates in the 0.3.n series are heading
+toward a 0.4 release.
 
 Run the app online: [**web**](https://notepod.solidcommunity.au).
 
@@ -20,7 +20,7 @@ Windows
 [**zip**](https://solidcommunity.au/installers/notepod-dev-windows.zip) or
 [**inno**](https://solidcommunity.au/installers/notepod-dev-windows-inno.exe).
 
-## 0.3
+## 0.3 Review and Consolidate
 
 + Installer script updates [0.2.5 20250611 gjw]
 + Cleanup, Android permissions, rename [0.2.4 20250611 gjw]
