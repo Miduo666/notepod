@@ -7,8 +7,9 @@ description of the update. Updates in the 0.1.n series are heading
 toward a 0.2 release and listed under the 0.1 series.
 
 Binaries to download latest version:
-[**GNU/Linux**](https://solidcommunity.au/installers/notepod-linux.zip) -
-[**Debian/Ubuntu**](https://solidcommunity.au/installers/notepod_amd64.deb) -
+GNU/Linux
+[**deb**](https://solidcommunity.au/installers/notepod_amd64.deb) or
+[**zip**](https://solidcommunity.au/installers/notepod-dev-linux.zip) -
 [**Android**](https://solidcommunity.au/installers/notepod.apk) -
 [**MacOS**](https://solidcommunity.au/installers/notepod-dev-macos.zip) -
 [**Windows
