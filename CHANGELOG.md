@@ -3,7 +3,7 @@
 Recorded here are the high level changes for the NotePod app.
 
 Guide: Each version update is recorded here with a short user-oriented
-description of the update. Updates in the 0.3.n series are heading
+description of the update. Updates in the 0.2.n series are heading
 toward a 0.3 release.
 
 Run the app online: [**web**](https://notepod.solidcommunity.au).
