@@ -23,6 +23,9 @@ Windows
 
 ## 0.3 Review and Consolidate
 
++ General cleanup [0.2.9 20250714 jesscmoore]
++ Clarify mine and shared notes in title [0.2.8 20250714 jesscmoore]
++ Unify date formats [0.2.7 20250714 jesscmoore]
 + Update date formatting [0.2.6 20250714 jesscmoore]
 + Installer script updates [0.2.5 20250611 gjw]
 + Cleanup, Android permissions, rename [0.2.4 20250611 gjw]
