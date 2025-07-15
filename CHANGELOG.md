@@ -23,6 +23,7 @@ Windows
 
 ## 0.3 Review and Consolidate
 
++ Add note title search [0.2.10 20250715 jesscmoore]
 + General cleanup [0.2.9 20250714 jesscmoore]
 + Clarify mine and shared notes in title [0.2.8 20250714 jesscmoore]
 + Unify date formats [0.2.7 20250714 jesscmoore]
