@@ -23,6 +23,9 @@ Windows
 
 ## 0.3 Review and Consolidate
 
++ Re-implement back button [0.2.13 20250716 gjw]
++ Support search by note content [0.2.12 20250716 jesscmoore]
++ Sort by note title and sort options [0.2.11 20250716 jesscmoore]
 + Add note title search [0.2.10 20250715 jesscmoore]
 + General cleanup [0.2.9 20250714 jesscmoore]
 + Clarify mine and shared notes in title [0.2.8 20250714 jesscmoore]
