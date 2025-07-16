@@ -23,7 +23,9 @@ Windows
 
 ## 0.3 Review and Consolidate
 
-+ Re-implement back button [0.2.13 20250716 gjw]
++ Default to note list on app startup [0.2.15 20250716 anushkavidanage]
++ Navigate to note after saving from HOME [0.2.14 20250716 jesscmoore]
++ Re-engineer back button [0.2.13 20250716 gjw]
 + Support search by note content [0.2.12 20250716 jesscmoore]
 + Sort by note title and sort options [0.2.11 20250716 jesscmoore]
 + Add note title search [0.2.10 20250715 jesscmoore]
