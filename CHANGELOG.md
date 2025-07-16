@@ -21,7 +21,8 @@ Windows
 [**zip**](https://solidcommunity.au/installers/notepod-dev-windows.zip) or
 [**inno**](https://solidcommunity.au/installers/notepod-dev-windows-inno.exe).
 
-Code docs are available from [solid community au](https://solidcommunity.au/docs/notepod)
+Coding documentation is available from [solid community
+au](https://solidcommunity.au/docs/notepod)
 
 ## 0.3 Review and Consolidate
 
