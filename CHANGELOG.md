@@ -1,8 +1,8 @@
 # NotePod Changelog
 
-Recorded here are the high level changes for the NotePod app.
+Noted here are the high level changes for the NotePod app.
 
-Guide: Each version update is recorded here with a short user-oriented
+Guide: Each version update is noted here with a short user-oriented
 description of the update. Updates in the 0.2.n series are heading
 toward a 0.3 release. The `[version timestamp user]` string is
 utilised by the flutter version_widget package.
