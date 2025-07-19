@@ -26,6 +26,8 @@ au](https://solidcommunity.au/docs/notepod)
 
 ## 0.3 Review and Consolidate
 
++ Improve NOTE scrolling [0.2.20 20250719 jesscmoore]
++ Begin with NEW NOTE if no notes found [0.2.19 20250719 jesscmoore]
 + Visually separate meta data and note [0.2.18 20250718 jesscmoore]
 + Left align markdown rendering of notes [0.2.17 20250718 jesscmoore]
 + Refactor SAVE buttons [0.2.16 20250717 jesscmoore]
