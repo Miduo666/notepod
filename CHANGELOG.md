@@ -26,6 +26,8 @@ au](https://solidcommunity.au/docs/notepod)
 
 ## 0.3 Review and Consolidate
 
++ Ensure scrollbars are visible [0.2.22 20250722 jesscmoore]
++ Version number now in nav drawer [0.2.21 20250722 jesscmoore]
 + Improve NOTE scrolling [0.2.20 20250719 jesscmoore]
 + Begin with NEW NOTE if no notes found [0.2.19 20250719 jesscmoore]
 + Visually separate meta data and note [0.2.18 20250718 jesscmoore]
