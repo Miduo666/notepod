@@ -26,6 +26,7 @@ au](https://solidcommunity.au/docs/notepod)
 
 ## 0.3 Review and Consolidate
 
++ Report number of shares [0.2.24 20250807 jesscmoore]
 + Buttons remain visible [0.2.23 20250722 jesscmoore]
 + Ensure scrollbars are visible [0.2.22 20250722 jesscmoore]
 + Version number now in nav drawer [0.2.21 20250722 jesscmoore]
