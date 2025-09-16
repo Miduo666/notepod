@@ -26,6 +26,7 @@ au](https://solidcommunity.au/docs/notepod)
 
 ## 0.3 Review and Consolidate
 
++ Remove import of lib/src from solidpod [0.2.31 20250917 gjw]
 + Various lint updates [0.2.30 20250917 jesscmoore]
 + Bug fix handling of no content for new notes [0.2.29 20250917 jesscmoore]
 + Improve TAB between TITLE/CONTENT [0.2.28 20250917 jesscmoore]
