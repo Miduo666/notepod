@@ -26,6 +26,13 @@ au](https://solidcommunity.au/docs/notepod)
 
 ## 0.3 Review and Consolidate
 
++ Show title if permission in Shared Notes list [0.2.33 20250922 jesscmoore]
++ Quick share button if permission in Shared Notes [0.2.32 20250921 jesscmoore]
++ Remove import of lib/src from solidpod [0.2.31 20250917 gjw]
++ Various lint updates [0.2.30 20250917 jesscmoore]
++ Bug fix handling of no content for new notes [0.2.29 20250917 jesscmoore]
++ Improve TAB between TITLE/CONTENT [0.2.28 20250917 jesscmoore]
++ Ensure scrollbar visibility [0.2.27 20250917 jesscmoore]
 + Lint updates [0.2.26 20250915 jesscmoore]
 + Bug fix on viewing notes [0.2.25 20250915 jesscmoore]
 + Report number of shares [0.2.24 20250807 jesscmoore]
