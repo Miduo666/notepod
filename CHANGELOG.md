@@ -26,7 +26,7 @@ au](https://solidcommunity.au/docs/notepod)
 
 ## 0.3 Review and Consolidate
 
-+ Fix ocassional bug where saving note indicator was not closing [0.2.X 20250926 jesscmoore]
++ Fix saving note not closing bug [0.2.X 20250926 jesscmoore]
 + Show title if permission in Shared Notes list [0.2.33 20250922 jesscmoore]
 + Quick share button if permission in Shared Notes [0.2.32 20250921 jesscmoore]
 + Remove import of lib/src from solidpod [0.2.31 20250917 gjw]
