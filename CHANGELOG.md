@@ -26,6 +26,7 @@ au](https://solidcommunity.au/docs/notepod)
 
 ## 0.3 Review and Consolidate
 
++ Update inno build for windows-latest [0.2.35 20250929 gjw]
 + Fix saving note not closing bug [0.2.34 20250926 jesscmoore]
 + Show title if permission in Shared Notes list [0.2.33 20250922 jesscmoore]
 + Quick share button if permission in Shared Notes [0.2.32 20250921 jesscmoore]
