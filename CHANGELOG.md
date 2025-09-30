@@ -26,7 +26,8 @@ au](https://solidcommunity.au/docs/notepod)
 
 ## 0.3 Review and Consolidate
 
-+ All ow multiple MY NOTES to be selected [0.2.37 jesscmoore]
++ Support light/dark colour themes [0.2.38 20250930 jesscmoore]
++ All ow multiple MY NOTES to be selected [0.2.37 20250930 jesscmoore]
 + Updates to busy animation [0.2.36 20250930 jesscmoore]
 + Update inno build for windows-latest [0.2.35 20250929 gjw]
 + Fix saving note not closing bug [0.2.34 20250926 jesscmoore]
