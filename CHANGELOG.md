@@ -26,6 +26,7 @@ au](https://solidcommunity.au/docs/notepod)
 
 ## 0.3 Review and Consolidate
 
++ Back button option to save unsaved note changes 0.2.41 20251008 jesscmoore]
 + Note action buttons made to be responsive [0.2.40 20251008 jesscmoore]
 + Note list views made to be responsive [0.2.39 20251006 jesscmoore]
 + Support light/dark colour themes [0.2.38 20250930 jesscmoore]
