@@ -26,6 +26,7 @@ au](https://solidcommunity.au/docs/notepod)
 
 ## 0.3 Review and Consolidate
 
++ Update snap/android config for secure storage [0.2.44 20251010 gjw]
 + Fixed save to secure storage bug on macos [0.2.43 20251010 jesscmoore]
 + Fixed bug causing macos build crash [0.2.42 20251008 jesscmoore]
 + Back button can save unsaved notes [0.2.41 20251008 jesscmoore]
