@@ -9,20 +9,26 @@ utilised by the flutter version_widget package.
 
 Run the app online: [**web**](https://notepod.solidcommunity.au).
 
-Download the latest version:
-GNU/Linux
-[**deb**](https://solidcommunity.au/installers/notepod_amd64.deb) or
-[**zip**](https://solidcommunity.au/installers/notepod-dev-linux.zip) -
-Android
-[**apk**](https://solidcommunity.au/installers/notepod.apk) -
-macOS
-[**zip**](https://solidcommunity.au/installers/notepod-dev-macos.zip) -
-Windows
-[**zip**](https://solidcommunity.au/installers/notepod-dev-windows.zip) or
-[**inno**](https://solidcommunity.au/installers/notepod-dev-windows-inno.exe).
+The latest version of the app can be downloaded and installed from the
+[Solid Community AU](https://solidcommunity.au):
 
-Coding documentation is available from [solid community
-au](https://solidcommunity.au/docs/notepod)
++ **Android**
+[apk](https://solidcommunity.au/installers/notepod.apk);
++ **GNU/Linux**
+[snap](https://solidcommunity.au/installers/notepod_amd64.snap) or
+[deb](https://solidcommunity.au/installers/notepod_amd64.deb) or
+[zip](https://solidcommunity.au/installers/notepod-dev-linux.zip);
++ **macOS**
+[dmg](https://solidcommunity.au/installers/notepod-dev-macos-unsigned.dmg) or
+[zip](https://solidcommunity.au/installers/notepod-dev-macos.zip);
++ **Windows**
+[zip](https://solidcommunity.au/ibnstallers/notepod-dev-windows.zip) or
+[inno](https://solidcommunity.au/installers/notepod-dev-windows-inno.exe).
+
+Contributions are welcome. Visit
+[github](https://github.com/gjwgit/notepod) to submit an issue or,
+even better, fork the repository yourself, update the code, and submit
+a Pull Request. Thanks.
 
 ## 0.3 Review and Consolidate
 
