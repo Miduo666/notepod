@@ -32,6 +32,8 @@ a Pull Request. Thanks.
 
 ## 0.3 Review and Consolidate
 
++ Fixed rendering error on titles of external notes [0.2.47 20251019 jesscmoore]
++ Fixed initialisaiton error on unreadable note [0.2.46 20251019 jesscmoore]
 + Fixed rendering error on unreadable note [0.2.45 20251016 jesscmoore]
 + Update snap/android config for secure storage [0.2.44 20251010 gjw]
 + Fixed save to secure storage bug on macos [0.2.43 20251010 jesscmoore]
