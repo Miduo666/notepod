@@ -22,11 +22,11 @@ The latest version of the app can be downloaded and installed from the
 [dmg](https://solidcommunity.au/installers/notepod-dev-macos-unsigned.dmg) or
 [zip](https://solidcommunity.au/installers/notepod-dev-macos.zip);
 + **Windows**
-[zip](https://solidcommunity.au/ibnstallers/notepod-dev-windows.zip) or
+[zip](https://solidcommunity.au/installers/notepod-dev-windows.zip) or
 [inno](https://solidcommunity.au/installers/notepod-dev-windows-inno.exe).
 
 Contributions are welcome. Visit
-[github](https://github.com/gjwgit/notepod) to submit an issue or,
+[github](https://github.com/anusii/notepod) to submit an issue or,
 even better, fork the repository yourself, update the code, and submit
 a Pull Request. Thanks.
 
