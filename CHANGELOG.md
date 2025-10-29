@@ -22,16 +22,18 @@ The latest version of the app can be downloaded and installed from the
 [dmg](https://solidcommunity.au/installers/notepod-dev-macos-unsigned.dmg) or
 [zip](https://solidcommunity.au/installers/notepod-dev-macos.zip);
 + **Windows**
-[zip](https://solidcommunity.au/ibnstallers/notepod-dev-windows.zip) or
+[zip](https://solidcommunity.au/installers/notepod-dev-windows.zip) or
 [inno](https://solidcommunity.au/installers/notepod-dev-windows-inno.exe).
 
 Contributions are welcome. Visit
-[github](https://github.com/gjwgit/notepod) to submit an issue or,
+[github](https://github.com/anusii/notepod) to submit an issue or,
 even better, fork the repository yourself, update the code, and submit
 a Pull Request. Thanks.
 
 ## 0.3 Review and Consolidate
 
++ Move to using CORS fixed version widget [0.2.49 20251027 gjw]
++ Updated for new solidpod/solidui. Lint fixes. [0.2.48 20251024 gjw]
 + Fixed rendering error on titles of external notes [0.2.47 20251019 jesscmoore]
 + Fixed initialisaiton error on unreadable note [0.2.46 20251019 jesscmoore]
 + Fixed rendering error on unreadable note [0.2.45 20251016 jesscmoore]
