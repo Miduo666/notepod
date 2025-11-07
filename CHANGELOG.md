@@ -32,6 +32,7 @@ a Pull Request. Thanks.
 
 ## 0.3 Review and Consolidate
 
++ Responsive delete multiple files dialog [0.2.53 20251107 jesscmoore]
 + Dialog added to update permission log [0.2.52 20251103 jesscmoore]
 + Fix text overflows in lists of notes [0.2.51 20251030 jesscmoore]
 + Permissions update [0.2.50 20251030 jesscmoore]
