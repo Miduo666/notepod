@@ -32,6 +32,7 @@ a Pull Request. Thanks.
 
 ## 0.3 Review and Consolidate
 
++ Optimise with concurrent note list loading [0.2.54 20251107 jesscmoore]
 + Responsive delete multiple files dialog [0.2.53 20251107 jesscmoore]
 + Dialog added to update permission log [0.2.52 20251103 jesscmoore]
 + Fix text overflows in lists of notes [0.2.51 20251030 jesscmoore]
