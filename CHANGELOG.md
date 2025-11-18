@@ -32,6 +32,7 @@ a Pull Request. Thanks.
 
 ## 0.3 Review and Consolidate
 
++ Dialog added to update permission log [0.2.52 20251103 jesscmoore]
 + Fix text overflows in lists of notes [0.2.51 20251030 jesscmoore]
 + Permissions update [0.2.50 20251030 jesscmoore]
 + Move to using CORS fixed version widget [0.2.49 20251027 gjw]
