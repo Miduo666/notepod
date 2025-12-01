@@ -9,23 +9,50 @@ utilised by the flutter version_widget package.
 
 Run the app online: [**web**](https://notepod.solidcommunity.au).
 
-Download the latest version:
-GNU/Linux
-[**deb**](https://solidcommunity.au/installers/notepod_amd64.deb) or
-[**zip**](https://solidcommunity.au/installers/notepod-dev-linux.zip) -
-Android
-[**apk**](https://solidcommunity.au/installers/notepod.apk) -
-macOS
-[**zip**](https://solidcommunity.au/installers/notepod-dev-macos.zip) -
-Windows
-[**zip**](https://solidcommunity.au/installers/notepod-dev-windows.zip) or
-[**inno**](https://solidcommunity.au/installers/notepod-dev-windows-inno.exe).
+The latest version of the app can be downloaded and installed from the
+[Solid Community AU](https://solidcommunity.au):
 
-Coding documentation is available from [solid community
-au](https://solidcommunity.au/docs/notepod)
++ **Android**
+[apk](https://solidcommunity.au/installers/notepod.apk);
++ **GNU/Linux**
+[snap](https://solidcommunity.au/installers/notepod_amd64.snap) or
+[deb](https://solidcommunity.au/installers/notepod_amd64.deb) or
+[zip](https://solidcommunity.au/installers/notepod-dev-linux.zip);
++ **macOS**
+[dmg](https://solidcommunity.au/installers/notepod-dev-macos-unsigned.dmg) or
+[zip](https://solidcommunity.au/installers/notepod-dev-macos.zip);
++ **Windows**
+[zip](https://solidcommunity.au/installers/notepod-dev-windows.zip) or
+[inno](https://solidcommunity.au/installers/notepod-dev-windows-inno.exe).
+
+Contributions are welcome. Visit
+[github](https://github.com/anusii/notepod) to submit an issue or,
+even better, fork the repository yourself, update the code, and submit
+a Pull Request. Thanks.
 
 ## 0.3 Review and Consolidate
 
++ Optimise with concurrent note list loading [0.2.54 20251107 jesscmoore]
++ Responsive delete multiple files dialog [0.2.53 20251107 jesscmoore]
++ Dialog added to update permission log [0.2.52 20251103 jesscmoore]
++ Fix text overflows in lists of notes [0.2.51 20251030 jesscmoore]
++ Permissions update [0.2.50 20251030 jesscmoore]
++ Move to using CORS fixed version widget [0.2.49 20251027 gjw]
++ Updated for new solidpod/solidui. Lint fixes. [0.2.48 20251024 gjw]
++ Fixed rendering error on titles of external notes [0.2.47 20251019 jesscmoore]
++ Fixed initialisaiton error on unreadable note [0.2.46 20251019 jesscmoore]
++ Fixed rendering error on unreadable note [0.2.45 20251016 jesscmoore]
++ Update snap/android config for secure storage [0.2.44 20251010 gjw]
++ Fixed save to secure storage bug on macos [0.2.43 20251010 jesscmoore]
++ Fixed bug causing macos build crash [0.2.42 20251008 jesscmoore]
++ Back button can save unsaved notes [0.2.41 20251008 jesscmoore]
++ Note action buttons made to be responsive [0.2.40 20251008 jesscmoore]
++ Note list views made to be responsive [0.2.39 20251006 jesscmoore]
++ Support light/dark colour themes [0.2.38 20250930 jesscmoore]
++ All ow multiple MY NOTES to be selected [0.2.37 20250930 jesscmoore]
++ Updates to busy animation [0.2.36 20250930 jesscmoore]
++ Update inno build for windows-latest [0.2.35 20250929 gjw]
++ Fix saving note not closing bug [0.2.34 20250926 jesscmoore]
 + Show title if permission in Shared Notes list [0.2.33 20250922 jesscmoore]
 + Quick share button if permission in Shared Notes [0.2.32 20250921 jesscmoore]
 + Remove import of lib/src from solidpod [0.2.31 20250917 gjw]
