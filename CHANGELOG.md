@@ -20,7 +20,7 @@ The latest version of the app can be downloaded and installed from the
 [zip](https://solidcommunity.au/installers/notepod-dev-linux.zip);
 + **macOS**
 [dmg](https://solidcommunity.au/installers/notepod-dev-macos-unsigned.dmg) or
-[zip](https://solidcommunity.au/installers/notepod-dev-macos.zip);
+[zip](https://solidcommunity.au/installers/notepod-dev-macos-unsigned.zip);
 + **Windows**
 [zip](https://solidcommunity.au/installers/notepod-dev-windows.zip) or
 [inno](https://solidcommunity.au/installers/notepod-dev-windows-inno.exe).
