@@ -3,8 +3,8 @@
 Noted here are the high level changes for the NotePod app.
 
 Guide: Each version update is noted here with a short user-oriented
-description of the update. Updates in the 0.2.n series are heading
-toward a 0.3 release. The `[version timestamp user]` string is
+description of the update. Updates in the 0.3.n series are heading
+toward a 0.4 release. The `[version timestamp user]` string is
 utilised by the flutter version_widget package.
 
 Run the app online: [**web**](https://notepod.solidcommunity.au).
@@ -30,7 +30,11 @@ Contributions are welcome. Visit
 even better, fork the repository yourself, update the code, and submit
 a Pull Request. Thanks.
 
-## 0.3 Review and Consolidate
+## 0.4
+
++ Deploy with solidui's SolidScaffold framework [0.3.0 20251205 jesscmoore]
+
+## 0.3 Migrate to SolidUI. Review and Consolidate
 
 + Optimise with concurrent note list loading [0.2.54 20251107 jesscmoore]
 + Responsive delete multiple files dialog [0.2.53 20251107 jesscmoore]
