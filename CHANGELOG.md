@@ -32,6 +32,7 @@ a Pull Request. Thanks.
 
 ## 0.4
 
++ Macos: implemented xcodegen build config generation [0.3.0 20251205 jesscmoore]
 + Deploy with solidui's SolidScaffold framework [0.3.0 20251205 jesscmoore]
 
 ## 0.3 Migrate to SolidUI. Review and Consolidate
