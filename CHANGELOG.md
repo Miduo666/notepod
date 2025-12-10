@@ -32,6 +32,7 @@ a Pull Request. Thanks.
 
 ## 0.4
 
++ Fixed render error in edit views [0.3.0 20251205 tonypioneer]
 + Macos: implemented xcodegen build config generation [0.3.0 20251205 jesscmoore]
 + Deploy with solidui's SolidScaffold framework [0.3.0 20251205 jesscmoore]
 
