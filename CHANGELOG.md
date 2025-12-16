@@ -32,6 +32,7 @@ a Pull Request. Thanks.
 
 ## 0.4
 
++ Match version string to theming [0.3.0 jesscmoore]
 + Added light/dark themes [0.3.0 20251211 tonypioneer]
 + Fixed render error in edit views [0.3.0 20251211 tonypioneer]
 + Macos: implemented xcodegen build config generation [0.3.0 20251205 jesscmoore]
