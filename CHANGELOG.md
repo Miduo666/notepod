@@ -32,8 +32,8 @@ a Pull Request. Thanks.
 
 ## 0.4
 
-+ Fixed delete dialog not closing [0.3.1 tonypioneer]
-+ Match version string to theming [0.3.0 jesscmoore]
++ Fixed delete dialog not closing [0.3.1 20251218 tonypioneer]
++ Match version string to theming [0.3.0 20251218 jesscmoore]
 + Added light/dark themes [0.3.0 20251211 tonypioneer]
 + Fixed render error in edit views [0.3.0 20251211 tonypioneer]
 + Macos: implemented xcodegen build config generation [0.3.0 20251205 jesscmoore]
