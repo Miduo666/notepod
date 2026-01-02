@@ -17,13 +17,13 @@ The latest version of the app can be downloaded and installed from the
 + **GNU/Linux**
 [snap](https://solidcommunity.au/installers/notepod_amd64.snap) or
 [deb](https://solidcommunity.au/installers/notepod_amd64.deb) or
-[zip](https://solidcommunity.au/installers/notepod-dev-linux.zip);
+[zip](https://solidcommunity.au/installers/notepod-linux.zip);
 + **macOS**
-[dmg](https://solidcommunity.au/installers/notepod-dev-macos-unsigned.dmg) or
-[zip](https://solidcommunity.au/installers/notepod-dev-macos-unsigned.zip);
+[dmg](https://solidcommunity.au/installers/notepod-macos-unsigned.dmg) or
+[zip](https://solidcommunity.au/installers/notepod-macos-unsigned.zip);
 + **Windows**
-[zip](https://solidcommunity.au/installers/notepod-dev-windows.zip) or
-[inno](https://solidcommunity.au/installers/notepod-dev-windows-inno.exe).
+[zip](https://solidcommunity.au/installers/notepod-windows.zip) or
+[inno](https://solidcommunity.au/installers/notepod-windows-inno.exe).
 
 Contributions are welcome. Visit
 [github](https://github.com/anusii/notepod) to submit an issue or,
