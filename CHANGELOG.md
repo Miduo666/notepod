@@ -32,6 +32,7 @@ a Pull Request. Thanks.
 
 ## 0.4
 
++ Added deletion of multiple notes [0.3.1 20260108 jesscmoore]
 + Fixed delete dialog not closing [0.3.1 20251218 tonypioneer]
 + Match version string to theming [0.3.0 20251218 jesscmoore]
 + Added light/dark themes [0.3.0 20251211 tonypioneer]
