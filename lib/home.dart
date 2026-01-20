@@ -167,7 +167,7 @@ class AppHomePageState extends State<AppHomePage> {
       ],
       statusBar: SolidStatusBarConfig(
         serverInfo: SolidServerInfo(
-          serverUri: _webId!,
+          serverUri: _webId ?? '',
         ),
         securityKeyStatus: const SolidSecurityKeyStatus(
           tooltip: 'Manage security keys',
