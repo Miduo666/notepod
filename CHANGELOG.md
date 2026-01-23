@@ -32,7 +32,9 @@ a Pull Request. Thanks.
 
 ## 0.4
 
-+ Dependency cleanup and update [0.3.5 20260119 gjwgit]
++ Remove redundant logout button [0.3.7 20260123 tonypioneer]
++ Bug fix: CONTINUE when not logged in [0.3.6 20260123 tonypioneer]
++ Dependency cleanup and update [0.3.5 20260119 gjw]
 + Fix writePod calls as required for solidpod 0.9.0 [0.3.4 20260112 jesscmoore]
 + Update to solidpod 0.9.0 and solidui 0.0.22 [0.3.4 20260109 jesscmoore]
 + Added deletion of multiple notes [0.3.3 20260108 jesscmoore]
