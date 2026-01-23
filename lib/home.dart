@@ -167,6 +167,7 @@ class AppHomePageState extends State<AppHomePage> {
       ],
       statusBar: SolidStatusBarConfig(
         serverInfo: SolidServerInfo(
+          // Use null-coalescing operator to prevent "Null check operator used on a null value" error
           serverUri: _webId ?? '',
         ),
         securityKeyStatus: const SolidSecurityKeyStatus(

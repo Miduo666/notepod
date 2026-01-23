@@ -367,6 +367,8 @@ Future<dynamic> getExternalNoteContent({
     );
 
     // Extract external note ttl data to noteContent
+    // Fixed type mismatch: SolidFunctionCallStatus is not comparable with String
+    // This resolves the unrelated_type_equality_checks warning
     try {
       // Deserialize note context
       final NoteContent? content;
